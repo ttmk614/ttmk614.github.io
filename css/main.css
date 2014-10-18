@@ -1,0 +1,29 @@
+/* main.css */
+html, body, h1,h2,h3,h4,p,a,div{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+h1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color: #444444;
+}
+h2{
+	font-size: 22px;
+	font-weight: 200;
+	text-align: center;
+	color: #eeeeee;
+}
+.header{
+	background-color: #999999;
+	padding: 50px 0;
+}
+.summary{
+	background-color: #888888;
+	padding: 20px 0;
+}
